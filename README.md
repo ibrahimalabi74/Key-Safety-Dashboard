@@ -31,10 +31,7 @@
       ## Dashboard preview
     
 
-      ## Authour
-      **Ibrahim Alabi**
-      **Linkedin:** (https://lnkd.in/dVvMms9R)
-      **Email:** (ibrahimalabi74@gmail.com)
+    
       
       
     
